@@ -1,0 +1,15 @@
+.main {
+    position: absolute;
+    height: 200px;
+    width: 2000px;
+    background-color: red;
+
+}
+
+.black {
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    background-color: black;
+
+}
